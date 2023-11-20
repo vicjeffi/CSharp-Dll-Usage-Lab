@@ -1,0 +1,11 @@
+C:\Users\Shnaps\source\repos\DllLabWork\DllLabWork\bin\Debug\DllLabWork.exe.config
+C:\Users\Shnaps\source\repos\DllLabWork\DllLabWork\bin\Debug\DllLabWork.exe
+C:\Users\Shnaps\source\repos\DllLabWork\DllLabWork\bin\Debug\DllLabWork.pdb
+C:\Users\Shnaps\source\repos\DllLabWork\DllLabWork\obj\Debug\DllLabWork.csproj.AssemblyReference.cache
+C:\Users\Shnaps\source\repos\DllLabWork\DllLabWork\obj\Debug\DllLabWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shnaps\source\repos\DllLabWork\DllLabWork\obj\Debug\DllLabWork.Form1.resources
+C:\Users\Shnaps\source\repos\DllLabWork\DllLabWork\obj\Debug\DllLabWork.Properties.Resources.resources
+C:\Users\Shnaps\source\repos\DllLabWork\DllLabWork\obj\Debug\DllLabWork.csproj.GenerateResource.cache
+C:\Users\Shnaps\source\repos\DllLabWork\DllLabWork\obj\Debug\DllLabWork.csproj.CoreCompileInputs.cache
+C:\Users\Shnaps\source\repos\DllLabWork\DllLabWork\obj\Debug\DllLabWork.exe
+C:\Users\Shnaps\source\repos\DllLabWork\DllLabWork\obj\Debug\DllLabWork.pdb
